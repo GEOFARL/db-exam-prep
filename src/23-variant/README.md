@@ -1,4 +1,4 @@
-# Variant 36
+# Variant 23
 
 ## Sql scripts
 - [db schema](./db-schema.sql)
