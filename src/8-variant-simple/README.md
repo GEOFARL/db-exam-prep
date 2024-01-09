@@ -1,4 +1,4 @@
-# Variant 8
+# Variant 8 Simple
 
 ## Sql scripts
 - [db schema](./db-schema.sql)
